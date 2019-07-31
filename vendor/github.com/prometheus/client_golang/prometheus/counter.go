@@ -18,7 +18,7 @@ import (
 	"math"
 	"sync/atomic"
 
-	dto "github.com/prometheus/client_model/go"
+	dto "github.com/JammyT/client_model/go"
 )
 
 // Counter is a Metric that represents a single numerical value that only ever

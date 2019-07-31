@@ -27,7 +27,7 @@ import (
 	"github.com/pkg/errors"
 	kingpin "gopkg.in/alecthomas/kingpin.v2"
 
-	"github.com/prometheus/promu/util/sh"
+	"github.com/JammyT/promu/util/sh"
 )
 
 var (

@@ -19,7 +19,7 @@ import (
 
 	"github.com/golang/protobuf/proto"
 
-	dto "github.com/prometheus/client_model/go"
+	dto "github.com/JammyT/client_model/go"
 )
 
 // WrapRegistererWith returns a Registerer wrapping the provided

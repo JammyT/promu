@@ -1,5 +1,5 @@
 repository:
-    path: github.com/prometheus/promu
+    path: github.com/JammyT/promu
 build:
     binaries:
         - name: tarball-example

@@ -3,7 +3,7 @@ go:
     version: 1.12.0
     cgo: false
 repository:
-    path: github.com/prometheus/prometheus
+    path: github.com/JammyT/prometheus
 build:
     prefix: .
     binaries:

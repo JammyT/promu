@@ -23,8 +23,8 @@ func TestRepoLocation(t *testing.T) {
 		s        string // input
 		expected string // expected result
 	}{
-		{"git@github.com:prometheus/promu.git", "github.com/prometheus/promu"},
-		{"https://github.com/prometheus/promu.git", "github.com/prometheus/promu"},
+		{"git@github.com:prometheus/promu.git", "github.com/JammyT/promu"},
+		{"https://github.com/JammyT/promu.git", "github.com/JammyT/promu"},
 		{"ssh://git@gitlab.fr:22443/prometheus/promu.git", "gitlab.fr/prometheus/promu"},
 		{"https://sdurrheimer@gitlab.fr/prometheus/promu.git", "gitlab.fr/prometheus/promu"},
 	}

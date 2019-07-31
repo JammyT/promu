@@ -16,7 +16,7 @@
 package prometheus
 
 import (
-	"github.com/prometheus/procfs"
+	"github.com/JammyT/procfs"
 )
 
 func canCollectProcess() bool {

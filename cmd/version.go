@@ -17,7 +17,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/prometheus/common/version"
+	"github.com/JammyT/common/version"
 )
 
 var (
